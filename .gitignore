@@ -9,7 +9,7 @@
 *.conf
 *.dll
 *.dylib
-*.jar
+
 *.jpg
 *.mhr
 *.obj
